@@ -1,0 +1,18 @@
+%svg-common {
+	background: url("svg/sprite.css.svg") no-repeat;
+}
+
+spritedain-bonus {
+	@extend %svg-common;
+	background-position: 0 0;
+	width: 60px;
+	height: 80px;
+}
+
+spritedain-security {
+	@extend %svg-common;
+	background-position: 100% 0;
+	width: 65px;
+	height: 77px;
+}
+
