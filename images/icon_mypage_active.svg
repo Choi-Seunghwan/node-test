@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-2{fill:#fff;stroke:#727cf5;stroke-width:.2px}
+        </style>
+    </defs>
+    <g id="icon_mypage_active" transform="translate(-60 -347)">
+        <path id="Rectangle_451" fill="none" d="M0 0H30V30H0z" data-name="Rectangle 451" transform="rotate(90 -128.5 218.5)"/>
+        <g id="Group_427" data-name="Group 427" transform="translate(144.625 330.035)">
+            <path id="Path_380" d="M-69.814 30.35a2.691 2.691 0 0 0 2.686-2.692 2.692 2.692 0 0 0-2.686-2.692 2.692 2.692 0 0 0-2.686 2.691 2.691 2.691 0 0 0 2.686 2.693zm0-4.308a1.615 1.615 0 0 1 1.614 1.615 1.615 1.615 0 0 1-1.611 1.615 1.615 1.615 0 0 1-1.611-1.615 1.615 1.615 0 0 1 1.608-1.615z" class="cls-2" data-name="Path 380" transform="translate(.269)"/>
+            <path id="Path_381" d="M-69.545 30.965a7 7 0 0 0-6.356 4.1 2.447 2.447 0 0 0 .163 2.343 2.378 2.378 0 0 0 2.008 1.1h8.482a.537.537 0 0 0 .537-.538.538.538 0 0 0-.537-.538h-8.482a1.289 1.289 0 0 1-1.1-.6 1.373 1.373 0 0 1-.089-1.314 5.926 5.926 0 0 1 5.379-3.469 5.923 5.923 0 0 1 5.908 5.923.537.537 0 0 0 .537.538.537.537 0 0 0 .537-.538 7 7 0 0 0-6.987-7.007z" class="cls-2" data-name="Path 381" transform="translate(0 .462)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <style>
+            .cls-2{stroke:#ff7097;stroke-width:4px;fill:none;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="icon_fail" transform="translate(-153.333 -94.333)">
+        <g id="Ellipse_33" fill="#fff" stroke="#ff7097" stroke-width="4px" data-name="Ellipse 33" transform="translate(153.333 94.333)">
+            <circle cx="30" cy="30" r="30" stroke="none"/>
+            <circle cx="30" cy="30" r="28" fill="none"/>
+        </g>
+        <path id="Line_41" d="M0 0L17.099 17.099" class="cls-2" data-name="Line 41" transform="translate(175.284 116.284)"/>
+        <path id="Line_42" d="M17.099 0L0 17.099" class="cls-2" data-name="Line 42" transform="translate(175.284 116.284)"/>
+    </g>
+</svg>

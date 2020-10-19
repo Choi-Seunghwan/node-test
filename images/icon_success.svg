@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <g id="icon_success" stroke="#6ff180" stroke-width="4px" transform="translate(-153.333 -94.333)">
+        <g id="Ellipse_33" fill="#fff" data-name="Ellipse 33" transform="translate(153.333 94.333)">
+            <circle cx="30" cy="30" r="30" stroke="none"/>
+            <circle cx="30" cy="30" r="28" fill="none"/>
+        </g>
+        <path id="Path_234" fill="none" stroke-linecap="round" stroke-linejoin="round" d="M37.8 231.77l6.769 6.348 13.552-14.494" data-name="Path 234" transform="rotate(2.98 2150.524 2783.299)"/>
+    </g>
+</svg>

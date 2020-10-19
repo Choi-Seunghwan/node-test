@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.6" height="15.833" viewBox="0 0 46.6 15.833">
+    <defs>
+        <style>
+            .cls-1{fill:#873166}
+        </style>
+    </defs>
+    <g id="icon_company_skrill" transform="translate(-.9 -73.224)">
+        <path id="Path_237" d="M43 79.724V90.23h3.752V79.724H43z" class="cls-1" data-name="Path 237" transform="translate(-10.508 -1.622)"/>
+        <path id="Path_238" d="M38.178 79.418c-3.541.074-5.121 1.674-5.173 4.723H33v6h3.752v-4.72c0-1.876 0-2.7 2.251-2.776v-3.152c-.003-.15-.825-.075-.825-.075z" class="cls-1" data-name="Path 238" transform="translate(-8.012 -1.541)"/>
+        <path id="Path_239" d="M28.506 78.376H24a19.016 19.016 0 0 1-2.251 3.677v-7.729L18 75.149v13.733h3.752V84.83a8.6 8.6 0 0 1 1.8 4.052h4.8a49.037 49.037 0 0 0-2.551-5.4 20.681 20.681 0 0 0 2.776-5.1z" class="cls-1" data-name="Path 239" transform="translate(-4.268 -.275)"/>
+        <path id="Path_240" d="M6.828 79.752c-.525 0-1.651-.075-1.651-1.126 0-1.2 1.651-1.2 2.251-1.2a13.318 13.318 0 0 1 3.452.6l1.126.375h.15v-3.377l-.15-.075a15.158 15.158 0 0 0-5.1-.825C2.551 74.274.975 76.825.975 79c0 1.276.525 4.2 5.478 4.577.09 0 .243.006.416.019.519.053 1.235.266 1.235 1.107 0 .674-.589 1.1-1.547 1.265a7.9 7.9 0 0 1-1.108.084 17.266 17.266 0 0 1-4.474-.822v.02L.9 85.23v3.452a22.18 22.18 0 0 0 5.328.6H6.3c4.277 0 6.228-2.4 6.228-4.8.003-2.704-2.098-4.43-5.7-4.73z" class="cls-1" data-name="Path 240" transform="translate(0 -.225)"/>
+        <path id="Path_241" d="M58 75v13.882h3.752V74.324z" class="cls-1" data-name="Path 241" transform="translate(-14.252 -.275)"/>
+        <path id="Path_242" d="M51.5 74.73L50 75v13.882h3.752V74.324L51.5 74.7z" class="cls-1" data-name="Path 242" transform="translate(-12.255 -.275)"/>
+        <circle id="Ellipse_34" cx="1.876" cy="1.876" r="1.876" class="cls-1" data-name="Ellipse 34" transform="translate(32.492 73.224)"/>
+    </g>
+</svg>

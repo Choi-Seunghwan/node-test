@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__icon_externellink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <path id="prefix__Path_23" fill="#727cf5" d="M99.5 2h-15A2.448 2.448 0 0 0 82 4.5v15a2.448 2.448 0 0 0 2.5 2.5h15a2.448 2.448 0 0 0 2.5-2.5v-15A2.448 2.448 0 0 0 99.5 2z" data-name="Path 23" transform="translate(-82 -2)"/>
+    <g id="prefix__Group_28" data-name="Group 28" transform="translate(3.298 3.406)">
+        <path id="prefix__Path_24" d="M92.8 9.031a3.176 3.176 0 0 0-4.42 0l-2.829 2.828a3.125 3.125 0 0 0 4.42 4.42l2.829-2.83a3.08 3.08 0 0 0 .58-.834 3.14 3.14 0 0 0-.58-3.585zm-.884 3.535l-.344.342-2.485 2.486a1.876 1.876 0 0 1-2.653-2.653l2.486-2.485.342-.343a1.875 1.875 0 0 1 2.653 2.651z" class="prefix__cls-2" data-name="Path 24" transform="translate(-84.638 -3.874)"/>
+        <path id="prefix__Path_25" d="M88.815 9.966l-.609.609a3.078 3.078 0 0 0 1.768 1.767l.609-.609a1.22 1.22 0 0 0 .281-.448 1.833 1.833 0 0 1-1.6-1.6 1.247 1.247 0 0 0-.449.281z" class="prefix__cls-2" data-name="Path 25" transform="translate(-83.746 -3.484)"/>
+        <path id="prefix__Path_26" d="M91.582 5.639L88.8 8.42a3.786 3.786 0 0 1 1.706.061l1.959-1.959a1.875 1.875 0 0 1 2.653 2.651l-1.96 1.96a3.75 3.75 0 0 1 .061 1.706L96 10.058a3.125 3.125 0 0 0-4.42-4.419z" class="prefix__cls-2" data-name="Path 26" transform="translate(-83.597 -4.724)"/>
+    </g>
+</svg>
