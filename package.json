@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "svg-sprite": "^1.5.0"
+  },
+  "dependencies": {
+    "replace-in-file": "^6.1.0"
   }
 }
